@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6teSjpTqYVY=",
+  "dgSpecHash": "SpUahn0qEH8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricar\\Desktop\\Ecommerce.Net+React\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\ricar\\Desktop\\Ecommerce.Net+React\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
